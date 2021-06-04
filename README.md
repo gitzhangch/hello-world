@@ -1,2 +1,7 @@
 # hello-world
-just the repository of learning_guide
+
+Hi,everyone.
+
+Zhang Ch here,this is my first time using GitHub.
+
+Now I just know little about python.
